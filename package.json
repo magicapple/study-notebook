@@ -1,0 +1,25 @@
+{
+  "name": "study-notebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "aa": "babel-node ./mostly-adequate-guide/memoize.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magicapple/study-notebook.git"
+  },
+  "author": "freedom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magicapple/study-notebook/issues"
+  },
+  "homepage": "https://github.com/magicapple/study-notebook",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-register": "^6.7.2",
+    "bluebird": "^3.3.4"
+  }
+}
